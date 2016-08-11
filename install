@@ -1,0 +1,11 @@
+#!/bin/bash
+installation_path=`pwd`
+cd "$installation_path"
+echo "coping files ..."
+mkdir "$HOME/.local/share/docky" 2>/dev/null
+mkdir "$HOME/.local/share/docky/themes" 2>/dev/null
+cp -rf ./* "$HOME/.local/share/docky/themes/"
+echo "Restarting Docky ..."
+killall docky
+sleep 2
+docky & exit
