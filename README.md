@@ -1,5 +1,5 @@
 # Arc-Dark-Docky-themes
-Docky themes for use with the Arck-Dark theme suite
+Docky themes for use with the Arc-Dark theme suite
 
 Arc-Dark themes are one of best Gtk themes for Gnu/Linux Desktop enveronments
 
@@ -8,13 +8,13 @@ https://github.com/mclmza/arc-theme-Red
 https://github.com/eti1337/arc-theme-orange
 
 
-I made some themes for docky based on arck dark themes in Blue and Red and orange colors
+I made some themes for docky based on arc dark themes in Blue and Red and orange colors
 
 I forked my project from this project
 
 https://github.com/Hippyjake/Numix-Themes-For-Docky
 
-and changed it for Arck-Dark-themes
+and changed it for Arc-Dark-themes
 
 ## Installation
 To install themese clone or download repository and run install file (make sure that git installed on your system)
