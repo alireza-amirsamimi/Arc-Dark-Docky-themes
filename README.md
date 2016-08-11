@@ -1,7 +1,7 @@
 # Arc-Dark-Docky-themes
 Docky themes for use with the Arc-Dark theme suite
 
-Arc-Dark themes are one of best Gtk themes for Gnu/Linux Desktop enveronments
+Arc-Dark themes are one of best Gtk themes for Gnu/Linux Desktop environments
 
 https://github.com/horst3180/arc-theme
 https://github.com/mclmza/arc-theme-Red
